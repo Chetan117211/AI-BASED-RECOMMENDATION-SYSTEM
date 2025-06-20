@@ -12,3 +12,9 @@
 
 *MENTOR*: NEELA SANTOSH
 
+**I have successfully completed the task of building an AI-based recommendation system using Java and Apache Mahout libraries.
+To implement this, I referred to several learning resources such as YouTube tutorials, took assistance from ChatGPT, and discussed approaches with friends, which helped me understand collaborative filtering, user similarity, and recommendation logic using Mahout.
+The program was developed and executed using the Command Prompt (CMD) environment on Windows. After setting up the Mahout dependencies and writing the Java code, the recommender system was compiled and executed successfully, generating personalized product suggestions based on user preferences.
+
+*output
+
