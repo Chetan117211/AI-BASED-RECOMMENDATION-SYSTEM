@@ -20,4 +20,3 @@ The program was developed and executed using the Command Prompt (CMD) environmen
 
 ![Image](https://github.com/user-attachments/assets/feac1e92-8e77-4386-8215-f3d8aa5bab10)
 
-![Image](https://github.com/user-attachments/assets/c8a97128-5e08-4f63-a270-1722f9029abc)
